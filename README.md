@@ -10,7 +10,7 @@ Bikeshare Exploration in R
 A detailed analysis of Bike rent with using R code with appropriate statistics and vizualization.  The Data variables include trip duration, and Gender 
 
 ### Files used
-Bikeshare Data files are available on request
+Bikeshare Data files are available on request. Datasets include chicago, Washinghton and Newyork bike rental data.
 
 ### Credits
 A huge acknowlegement goes to Richard and other tutors for making the data science with R journey to be awesome
