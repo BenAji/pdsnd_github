@@ -7,10 +7,10 @@ This projected was created on 24th of September 2021
 Bikeshare Exploration in R
 
 ### Description
-A detailed analysis of Bike rent with using R code with appropriate statistics and vizualization
+A detailed analysis of Bike rent with using R code with appropriate statistics and vizualization.  The Data variables include trip duration, and Gender 
 
 ### Files used
-Data files are available on request
+Bikeshare Data files are available on request
 
 ### Credits
 A huge acknowlegement goes to Richard and other tutors for making the data science with R journey to be awesome
