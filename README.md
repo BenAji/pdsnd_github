@@ -1,17 +1,16 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+This projected was created on 24th of September 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Exploration in R
 
 ### Description
-Describe what your project is about and what it does
+A detailed analysis of Bike rent with using R code with appropriate statistics and vizualization
 
 ### Files used
-Include the files used
+Data files are available on request
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+A huge acknowlegement goes to Richard and other tutors for making the data science with R journey to be awesome
