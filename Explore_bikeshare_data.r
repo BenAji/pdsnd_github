@@ -1,13 +1,4 @@
 
-ny = read.csv('new_york_city.csv')
-wash = read.csv('washington.csv')
-chi = read.csv('chicago.csv')
-
-head(ny)
-
-head(wash)
-
-head(chi)
 
 #get the workspace directory
 getwd()
@@ -18,9 +9,8 @@ list.files()
 
 #read to file the csv dataset and assign variable  
 ny = read.csv('new_york_city.csv')
-#wash = read.csv('washington.csv')
-#chi = read.csv('chicago.csv')
 
+#Top rows of the Newyork dataset 
 head(ny)
 
 #call the ggplot library to have access to all the modules module 
